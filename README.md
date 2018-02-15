@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/camizanette/shapes.svg?branch=master)](https://travis-ci.org/camizanette/shapes)
+[![codecov](https://codecov.io/gh/camizanette/shapes/branch/master/graph/badge.svg)](https://codecov.io/gh/camizanette/shapes)
 
 # Shapes - an example repository
 
